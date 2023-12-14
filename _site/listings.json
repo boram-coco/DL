@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/발표.html",
       "/posts/VAE.html",
       "/posts/CV_CIFAR(1).html",
       "/posts/Att01.html",
